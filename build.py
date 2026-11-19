@@ -511,7 +511,7 @@ def home():
         </div>
       </div>
       <div class="split__media reveal" data-delay="120">
-        <img src="assets/img/team1.jpg" alt="Tint and Sun team installing window film on villa glass doors" loading="lazy">
+        <img src="assets/img/team1.jpg" alt="Tint and Sun team installing window film on a commercial glass façade from a boom lift" loading="lazy">
       </div>
     </div>
   </div>
