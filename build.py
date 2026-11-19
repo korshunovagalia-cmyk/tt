@@ -557,7 +557,7 @@ def about():
   <div class="wrap">
     <div class="founder">
       <figure class="founder__media reveal">
-        <img src="assets/img/founder.jpg" alt="Oksana Lavrinenko, Founder and CEO of Tint and Sun">
+        <img src="assets/img/founder.jpg" alt="Oksana L., Founder and CEO of Tint and Sun">
         <figcaption><strong>Oksana L.</strong>Founder &amp; CEO<br>Architectural Solar Control Film Expert</figcaption>
       </figure>
       <div class="founder__text reveal" data-delay="100">
@@ -565,7 +565,7 @@ def about():
         <h2 class="h-section">Personal accountability on every project.</h2>
         <p>Serving the UAE since 2012, Tint and Sun specialises in solar control window films, decorative finishes and customised graphics for vehicles, homes and commercial spaces.</p>
         <p>We combine technical assessment, tailored film selection, precise installation and dedicated warranty support to enhance comfort, privacy and appearance.</p>
-        <p>At the heart of the business is Oksana Lavrinenko, Owner and Solar Control Film Specialist. Progressing from customer care through marketing to managing partner and sole owner, she brings extensive industry experience, technical expertise and personal accountability to every project.</p>
+        <p>At the heart of the business is Oksana L., Owner and Solar Control Film Specialist. Progressing from customer care through marketing to managing partner and sole owner, she brings extensive industry experience, technical expertise and personal accountability to every project.</p>
         <p>Her leadership has also developed corporate relationships and staff programmes spanning:</p>
         <ul class="chips">
           <li>Emirates Airlines</li><li>BMW Group Middle East</li><li>Etihad Airways</li><li>Australian Consulate-General Dubai</li>
@@ -833,7 +833,7 @@ PAGES = [
     ("index.html", "Window Film Solutions Dubai | Tint and Sun",
      "Professional window film solutions in Dubai: heat reduction, daytime privacy, UV protection and decorative finishes since 2012.", home),
     ("about.html", "About Us | Tint and Sun Dubai",
-     "A trusted Dubai tinting company since 2012, led by founder Oksana Lavrinenko, architectural solar control film expert.", about),
+     "A trusted Dubai tinting company since 2012, led by founder Oksana L., architectural solar control film expert.", about),
     ("solar-films.html", "Solar Control Window Films | Tint and Sun Dubai",
      "How solar control films work: HP, Ceramic and Nano-Ceramic films blocking up to 99% heat and UV. Transparent films with up to 96% IRR.", solar),
     ("privacy-films.html", "Daytime Privacy Window Films | Tint and Sun Dubai",
