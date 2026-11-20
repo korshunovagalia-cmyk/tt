@@ -623,7 +623,7 @@ SCIENCE_SVG = """<svg class="science__svg" viewBox="0 0 720 352" role="img" aria
   <rect x="400" y="168" width="148" height="14" fill="url(#gH)"/>
   <text x="400" y="234">UV rays</text>
   <rect x="400" y="243" width="148" height="14" fill="url(#gU)"/>
-  <rect x="590" y="95.0" width="78" height="10" fill="#f6b73c" opacity="0.55"/><path d="M666 89l16 11-16 11z" fill="#f6b73c" opacity="0.55"/>
+  <rect x="590" y="93.0" width="90" height="14" fill="#f6b73c"/><path d="M678 85l22 15-22 15z" fill="#f6b73c"/>
   <text x="600" y="126" font-size="9.5" font-weight="500" fill="#8b9aa5">Softer, glare-free light</text>
   <path d="M544 175 490 215" stroke="#ee7a2a" stroke-width="9" stroke-linecap="butt" fill="none" marker-end="url(#aH)"/>
   <rect x="590" y="170.0" width="78" height="10" fill="#ee7a2a" opacity="0.1"/><path d="M666 164l16 11-16 11z" fill="#ee7a2a" opacity="0.1"/>
