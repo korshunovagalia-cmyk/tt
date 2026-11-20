@@ -626,10 +626,10 @@ SCIENCE_SVG = """<svg class="science__svg" viewBox="0 0 720 352" role="img" aria
   <rect x="590" y="95.0" width="78" height="10" fill="#f6b73c" opacity="0.55"/><path d="M666 89l16 11-16 11z" fill="#f6b73c" opacity="0.55"/>
   <text x="600" y="126" font-size="9.5" font-weight="500" fill="#8b9aa5">Softer, glare-free light</text>
   <path d="M544 175 490 135" stroke="#ee7a2a" stroke-width="9" stroke-linecap="butt" fill="none" marker-end="url(#aH)"/>
-  <rect x="590" y="172" width="40" height="6" fill="#ee7a2a" opacity=".15"/>
+  <rect x="590" y="170.0" width="78" height="10" fill="#ee7a2a" opacity="0.4"/><path d="M666 164l16 11-16 11z" fill="#ee7a2a" opacity="0.4"/>
   <text x="600" y="199" font-size="9.5" font-weight="500" fill="#8b9aa5">Up to 99% heat rejected</text>
   <path d="M544 250 490 210" stroke="#8b6cd1" stroke-width="9" stroke-linecap="butt" fill="none" marker-end="url(#aU)"/>
-  <rect x="590" y="247" width="40" height="6" fill="#8b6cd1" opacity=".15"/>
+  <rect x="590" y="245.0" width="78" height="10" fill="#8b6cd1" opacity="0.4"/><path d="M666 239l16 11-16 11z" fill="#8b6cd1" opacity="0.4"/>
   <text x="600" y="274" font-size="9.5" font-weight="500" fill="#8b9aa5">Up to 99% UV blocked</text>
   <path d="M548 52 590 30v262l-42 22z" fill="#6b7c88" stroke="#3d4c56" stroke-width="2"/>
   <path d="M584 33 590 30v262l-6 3z" fill="#3d4c56"/>
