@@ -801,7 +801,7 @@ def contact():
     return page_hero(
         "Contact",
         "Let&rsquo;s find the right solution for your glass.",
-        "Get a free consultation by WhatsApp &mdash; or visit us at TAHA Business Center, Al Quoz 3, Dubai. Tue&ndash;Sun, 10am&ndash;7pm.",
+        "Get a free consultation by WhatsApp &mdash; or visit us at <span style=\"white-space:nowrap\">TAHA Business Center, Al Quoz 3, Dubai.</span><br>Tue&ndash;Sun, 10am&ndash;7pm.",
     ) + T("""
 
 <section class="section">
