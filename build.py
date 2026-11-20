@@ -598,7 +598,7 @@ def about():
 </section>""", I_HOUSE=I_HOUSE, I_TOWER=I_TOWER, I_FRAME=I_FRAME)
 
 
-SCIENCE_SVG = """<svg class="science__svg" viewBox="0 0 720 330" role="img" aria-label="Diagram: visible light, heat and UV pass straight through plain glass; glass with solar control film lets softened light through while reflecting heat and UV">
+SCIENCE_SVG = """<svg class="science__svg" viewBox="0 0 720 352" role="img" aria-label="Diagram: visible light, heat and UV pass straight through plain glass; glass with solar control film lets softened light through while reflecting heat and UV">
   <defs>
     <linearGradient id="gL" x1="0" x2="1"><stop offset="0" stop-color="#f6b73c" stop-opacity=".15"/><stop offset="1" stop-color="#f6b73c"/></linearGradient>
     <linearGradient id="gH" x1="0" x2="1"><stop offset="0" stop-color="#ee7a2a" stop-opacity=".15"/><stop offset="1" stop-color="#ee7a2a"/></linearGradient>
@@ -606,7 +606,7 @@ SCIENCE_SVG = """<svg class="science__svg" viewBox="0 0 720 330" role="img" aria
     <marker id="aH" viewBox="0 0 10 10" refX="3" refY="5" markerUnits="userSpaceOnUse" markerWidth="22" markerHeight="22" orient="auto"><path d="M0 0 10 5 0 10z" fill="#ee7a2a"/></marker>
     <marker id="aU" viewBox="0 0 10 10" refX="3" refY="5" markerUnits="userSpaceOnUse" markerWidth="22" markerHeight="22" orient="auto"><path d="M0 0 10 5 0 10z" fill="#8b6cd1"/></marker>
   </defs>
-  <g font-family="inherit" font-size="13" font-weight="600" fill="#5b6f7c">
+  <g font-family="inherit" font-size="10.5" font-weight="600" fill="#5b6f7c">
   <!-- left: plain glass, everything passes -->
   <text x="20" y="84">Visible light</text>
   <rect x="20" y="93.0" width="262" height="14" rx="7.0" fill="url(#gL)" opacity="1"/><path d="M280 85l22 15-22 15z" fill="#f6b73c" opacity="1"/>
@@ -615,7 +615,7 @@ SCIENCE_SVG = """<svg class="science__svg" viewBox="0 0 720 330" role="img" aria
   <text x="20" y="234">UV rays</text>
   <rect x="20" y="243.0" width="262" height="14" rx="7.0" fill="url(#gU)" opacity="1"/><path d="M280 235l22 15-22 15z" fill="#8b6cd1" opacity="1"/>
   <path d="M150 52 192 30v262l-42 22z" fill="#e3ebf0" stroke="#9aa6ae" stroke-width="2" opacity=".6"/>
-  <text x="171" y="320" text-anchor="middle" font-weight="500" font-size="12" fill="#8b9aa5">Heat, glare and UV come straight in</text>
+  <text x="171" y="344" text-anchor="middle" font-weight="500" font-size="9.5" fill="#8b9aa5">Heat, glare and UV come straight in</text>
   <!-- right: filmed glass -->
   <text x="400" y="84">Visible light</text>
   <rect x="400" y="93" width="148" height="14" rx="7" fill="url(#gL)"/>
@@ -624,16 +624,16 @@ SCIENCE_SVG = """<svg class="science__svg" viewBox="0 0 720 330" role="img" aria
   <text x="400" y="234">UV rays</text>
   <rect x="400" y="243" width="148" height="14" rx="7" fill="url(#gU)"/>
   <rect x="590" y="95.0" width="78" height="10" rx="5.0" fill="#f6b73c" opacity="0.55"/><path d="M666 89l16 11-16 11z" fill="#f6b73c" opacity="0.55"/>
-  <text x="590" y="126" font-size="12" font-weight="500" fill="#8b9aa5">Softer, glare-free light</text>
+  <text x="600" y="126" font-size="9.5" font-weight="500" fill="#8b9aa5">Softer, glare-free light</text>
   <path d="M544 175 490 135" stroke="#ee7a2a" stroke-width="9" stroke-linecap="round" fill="none" marker-end="url(#aH)"/>
   <rect x="590" y="172" width="40" height="6" rx="3" fill="#ee7a2a" opacity=".15"/>
-  <text x="590" y="199" font-size="12" font-weight="500" fill="#8b9aa5">Up to 99% heat rejected</text>
+  <text x="600" y="199" font-size="9.5" font-weight="500" fill="#8b9aa5">Up to 99% heat rejected</text>
   <path d="M544 250 490 210" stroke="#8b6cd1" stroke-width="9" stroke-linecap="round" fill="none" marker-end="url(#aU)"/>
   <rect x="590" y="247" width="40" height="6" rx="3" fill="#8b6cd1" opacity=".15"/>
-  <text x="590" y="274" font-size="12" font-weight="500" fill="#8b9aa5">Up to 99% UV blocked</text>
+  <text x="600" y="274" font-size="9.5" font-weight="500" fill="#8b9aa5">Up to 99% UV blocked</text>
   <path d="M548 52 590 30v262l-42 22z" fill="#6b7c88" stroke="#3d4c56" stroke-width="2"/>
   <path d="M584 33 590 30v262l-6 3z" fill="#3d4c56"/>
-  <text x="569" y="320" text-anchor="middle" font-weight="500" font-size="12" fill="#8b9aa5">Film reflects and absorbs</text>
+  <text x="569" y="344" text-anchor="middle" font-weight="500" font-size="9.5" fill="#8b9aa5">Film reflects and absorbs</text>
   </g>
 </svg>"""
 
